@@ -33,6 +33,11 @@ Files is a NodeJS file management helper with a simple API.
 CLI node toolkit.
 - __Github__ : [@zouloux/cli](http://github.com/zouloux/cli)
 - __NPM__ `@zouloux/cli`
+ 
+### NODE @solid-js/bundler
+Task runner and web-bundler on top of Parcel
+- __Github__ : [@zouloux/deuspi](http://github.com/zouloux/deuspi)
+- __NPM__ `@zouloux/deuspi`
 
 ### WEB - @solid-js/yadl
 Yet Another DOM Library
@@ -43,3 +48,4 @@ Yet Another DOM Library
 Minimalist Virtual DOM library with JSX and factory pattern for stateful components.
 - __Github__ : [@zouloux/reflex](http://github.com/zouloux/reflex)
 - __NPM__ `@zouloux/reflex`
+
